@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Mobile Number:8128389187
+                     Email: chiragahirat@gmail.com
+                     Instagram:@chirag_ahir_king
 
 <!---
 CHIRAGAHIR1/CHIRAGAHIR1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
